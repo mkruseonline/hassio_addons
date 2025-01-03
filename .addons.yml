@@ -4,4 +4,4 @@ addons:
   signal_messenger:
     repository: mkruseonline/signal-addon
     target: signal
-    image: ghcr.io/mkruseonline/signal_messenger/{arch}
+    image: ghcr.io/mkruseonline/signal_messenger/aarch64:27398c2
