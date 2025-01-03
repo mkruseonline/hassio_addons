@@ -1,6 +1,6 @@
 name: Signal Messenger
 url: https://github.com/mkruseonline/signal-addon/tree/master/
-version: 0.0.1
+version: 27398c2
 slug: signal_messenger
 arch:
 - aarch64
