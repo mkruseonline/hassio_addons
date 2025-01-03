@@ -24,4 +24,4 @@ schema:
   SIGNAL_CLI_CMD_TIMEOUT: int
 environment:
   SIGNAL_CLI_CONFIG_DIR: /config
-image: ghcr.io/mkruseonline/signal_messenger/{arch}
+image: docker pull ghcr.io/mkruseonline/signal_messenger/aarch64:27398c2
